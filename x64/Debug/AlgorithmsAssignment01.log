@@ -1,2 +1,6 @@
 ﻿  AlgorithmsAssignment01.cpp
+C:\Users\oscar\Documents\Projects\Visual Studio Projects\AlgorithmsAssignment01\AlgorithmsAssignment01\AlgorithmsAssignment01.cpp(42,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\oscar\Documents\Projects\Visual Studio Projects\AlgorithmsAssignment01\AlgorithmsAssignment01\AlgorithmsAssignment01.cpp(203,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\oscar\Documents\Projects\Visual Studio Projects\AlgorithmsAssignment01\AlgorithmsAssignment01\AlgorithmsAssignment01.cpp(65): warning C4172: returning address of local variable or temporary: emptyItem
+C:\Users\oscar\Documents\Projects\Visual Studio Projects\AlgorithmsAssignment01\AlgorithmsAssignment01\AlgorithmsAssignment01.cpp(78): warning C4172: returning address of local variable or temporary: emptyItem
   AlgorithmsAssignment01.vcxproj -> C:\Users\oscar\Documents\Projects\Visual Studio Projects\AlgorithmsAssignment01\x64\Debug\AlgorithmsAssignment01.exe
